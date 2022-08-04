@@ -1,5 +1,6 @@
 #!/bin/bash
 
+ssh-git
 SYS_NAME=`uname -a|cut -d' ' -f2`
 DATE=`date '+%Y-%m-%d_%H%M'`
 COMMIT_MES="update ${DATE} ${SYS_NAME}"
