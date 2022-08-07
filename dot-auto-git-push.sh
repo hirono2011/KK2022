@@ -1,6 +1,6 @@
 #!/bin/bash
 
-dir=`pwd`; cd ~/.ssh; cp config.git config; cd $dir
+#dir=`pwd`; cd ~/.ssh; cp config.git config; cd $dir
 git pull
 
 SYS_NAME=`uname -a|cut -d' ' -f2`
