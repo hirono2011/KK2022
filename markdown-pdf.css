@@ -47,3 +47,14 @@ h3 {
 table, th, td {
     border: 1px solid black;
 }
+
+div.categories {
+    font-size: 10pt;
+}
+
+div.datetime {
+    font-size: 9pt;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+

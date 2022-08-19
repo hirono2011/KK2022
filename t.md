@@ -1,200 +1,14 @@
-
-<div style="page-break-before:always"></div>
-<table style="font-size: 9pt; width: 610px; margin-bottom: 20px; height: 80px;">
-<tbody>
-    <tr>
-        <th align=left>資料ID</th>
-        <td align=left><span style="color: red;">TWEET::2020-10-25_173206:@fukazawas</span></td>
-    </tr>
-    <tr>
-        <th align=left>URL</th>
-        <td align=left>https://twitter.com/fukazawas/status/444476078535352320</td>
-    </tr>
-    <tr>
-        <th align=left>アカウント</th>
-        <td align=left>@fukazawas</td>
-    </tr>
-    <tr>
-        <th align=left>ユーザ名</th>
-        <td align=left>深澤諭史</td>
-    </tr>
-    <tr>
-        <th align=left>ツイートの記録日時</th>
-        <td align=left>2022-08-18_130716</td>
-    </tr>
-</tbody>
-</table>
-<blockquote class="twitter-tweet"  data-width="450"  data-lang="ja"h><p lang="ja" dir="ltr">（・∀・）ここ最近，思っていることなのですが，「社会が弁護士に対して持っている高度の信頼」を，焼畑農業のごとく消費して，お金に変えることは，ビジネスセンスではないと思うのです。</p>&mdash; 深澤諭史 (user) <a href="https://twitter.com/fukazawas/status/1320281971906375681">2020-10-25_17:32:06</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<div style="page-break-before:always"></div>
-
-
-<div style="page-break-before:always"></div>
-<table style="font-size: 9pt; width: 610px; margin-bottom: 20px; height: 80px;">
-<tbody>
-    <tr>
-        <th align=left>資料ID</th>
-        <td align=left><span style="color: red;">TWEET::2018-04-29_092225:@fukazawas</span></td>
-    </tr>
-    <tr>
-        <th align=left>URL</th>
-        <td align=left>https://twitter.com/fukazawas/status/444476078535352320</td>
-    </tr>
-    <tr>
-        <th align=left>アカウント</th>
-        <td align=left>@fukazawas</td>
-    </tr>
-    <tr>
-        <th align=left>ユーザ名</th>
-        <td align=left>深澤諭史</td>
-    </tr>
-    <tr>
-        <th align=left>ツイートの記録日時</th>
-        <td align=left>2022-08-18_130716</td>
-    </tr>
-</tbody>
-</table>
-<blockquote class="twitter-tweet"  data-width="450"  data-lang="ja"h><p lang="ja" dir="ltr">弁護士会は，本当に，もっと広報した方がいいと思う。
-弁護士には高度の社会的使命（弁護士法１条）が課せられているとはいえ，自分たちで膨大なお金・労力を出し合って，それで，公益活動を励行していることとか。
-（・∀・）</p>&mdash; 深澤諭史 (user) <a href="https://twitter.com/fukazawas/status/990385780718620672">2018-04-29_09:22:25</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<div style="page-break-before:always"></div>
-
-
-<div style="page-break-before:always"></div>
-<table style="font-size: 9pt; width: 610px; margin-bottom: 20px; height: 80px;">
-<tbody>
-    <tr>
-        <th align=left>資料ID</th>
-        <td align=left><span style="color: red;">TWEET::2019-06-17_213204:@fukazawas</span></td>
-    </tr>
-    <tr>
-        <th align=left>URL</th>
-        <td align=left>https://twitter.com/fukazawas/status/444476078535352320</td>
-    </tr>
-    <tr>
-        <th align=left>アカウント</th>
-        <td align=left>@fukazawas</td>
-    </tr>
-    <tr>
-        <th align=left>ユーザ名</th>
-        <td align=left>深澤諭史</td>
-    </tr>
-    <tr>
-        <th align=left>ツイートの記録日時</th>
-        <td align=left>2022-08-18_130716</td>
-    </tr>
-</tbody>
-</table>
-<blockquote class="twitter-tweet"  data-width="450"  data-lang="ja"h><p lang="ja" dir="ltr">岡口裁判官の訴追可否、25日にも判断へ | 2019/6/17 - 共同通信 https://t.co/T1mj7AMFaw 高度な秘密保持が要求される事柄だろうに。 こんなことを平気で漏らす「関係者」こそ訴追されるべきではないだろうか？ （・∀・＃）</p>&mdash; 深澤諭史 (user) <a href="https://twitter.com/fukazawas/status/1140597979784466433">2019-06-17_21:32:04</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<div style="page-break-before:always"></div>
-
-
-<div style="page-break-before:always"></div>
-<table style="font-size: 9pt; width: 610px; margin-bottom: 20px; height: 80px;">
-<tbody>
-    <tr>
-        <th align=left>資料ID</th>
-        <td align=left><span style="color: red;">TWEET::2017-11-25_100256:@fukazawas</span></td>
-    </tr>
-    <tr>
-        <th align=left>URL</th>
-        <td align=left>https://twitter.com/fukazawas/status/444476078535352320</td>
-    </tr>
-    <tr>
-        <th align=left>アカウント</th>
-        <td align=left>@fukazawas</td>
-    </tr>
-    <tr>
-        <th align=left>ユーザ名</th>
-        <td align=left>深澤諭史</td>
-    </tr>
-    <tr>
-        <th align=left>ツイートの記録日時</th>
-        <td align=left>2022-08-18_130716</td>
-    </tr>
-</tbody>
-</table>
-<blockquote class="twitter-tweet"  data-width="450"  data-lang="ja"h><p lang="ja" dir="ltr">https://t.co/URYwlLQgbW それなりに性犯罪の弁護をしていますが，基本的に，性犯罪においては，事後に被害申告があれば，事件当時の合意の不存在が高度に推認され，被疑者・被告人側が，合意の存在を推認させる特段の事情の立証に失敗すれば起訴・有罪につながるというのが実感ですね。</p>&mdash; 深澤諭史 (user) <a href="https://twitter.com/fukazawas/status/934225858193121280">2017-11-25_10:02:56</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<div style="page-break-before:always"></div>
-
-
-<div style="page-break-before:always"></div>
-<table style="font-size: 9pt; width: 610px; margin-bottom: 20px; height: 80px;">
-<tbody>
-    <tr>
-        <th align=left>資料ID</th>
-        <td align=left><span style="color: red;">TWEET::2019-03-17_215116:@fukazawas</span></td>
-    </tr>
-    <tr>
-        <th align=left>URL</th>
-        <td align=left>https://twitter.com/fukazawas/status/444476078535352320</td>
-    </tr>
-    <tr>
-        <th align=left>アカウント</th>
-        <td align=left>@fukazawas</td>
-    </tr>
-    <tr>
-        <th align=left>ユーザ名</th>
-        <td align=left>深澤諭史</td>
-    </tr>
-    <tr>
-        <th align=left>ツイートの記録日時</th>
-        <td align=left>2022-08-18_130716</td>
-    </tr>
-</tbody>
-</table>
-<blockquote class="twitter-tweet"  data-width="450"  data-lang="ja"h><p lang="ja" dir="ltr">弁護士業は、労働集約産業であり、感情労働であり、かつ、依頼者との高度の信頼関係が必須であり、あるいは職人的な創意工夫が求められる業務である。 それにもかかわらず、赤字、手続きが煩雑というだけでなく、「弁護士業務に対してひとかけらのリスペクトもない」のが問題。 #法テラス</p>&mdash; 深澤諭史 (user) <a href="https://twitter.com/fukazawas/status/1107263130294337536">2019-03-17_21:51:16</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<div style="page-break-before:always"></div>
-
-
-
-
-<table style="font-size: 9pt; width: 610px; margin-bottom: 20px; height: 80px;">
-<tbody>
-    <tr>
-        <th align=left>資料ID</th>
-        <td align=left><span style="color: red;">TWEET::2014-03-14_231209:@fukazawas</span></td>
-    </tr>
-    <tr>
-        <th align=left>URL</th>
-        <td align=left>https://twitter.com/fukazawas/status/444476078535352320</td>
-    </tr>
-    <tr>
-        <th align=left>アカウント</th>
-        <td align=left>@fukazawas</td>
-    </tr>
-    <tr>
-        <th align=left>ユーザ名</th>
-        <td align=left>深澤諭史</td>
-    </tr>
-    <tr>
-        <th align=left>ツイートの記録日時</th>
-        <td align=left>2022-08-18_130716</td>
-    </tr>
-</tbody>
-</table>
-<blockquote class="twitter-tweet"  data-width="450"  data-lang="ja"h><p lang="ja" dir="ltr">@teriyakidesuyo 高度の守秘義務がありますので、一切お答えできません。 でも、入ればわかりますよ！！</p>&mdash; 深澤諭史 (user) <a href="https://twitter.com/fukazawas/status/444476078535352320">2014-03-14_23:12:09</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
-
-6件ありました。
-
     
 <div style="page-break-before:always"></div>
 <table style="font-size: 9pt; width: 610px; margin-bottom: 20px; height: 80px;">
 <tbody>
     <tr>
         <th align=left>資料ID</th>
-        <td align=left>TWEET::2014-03-14_231209:@fukazawas</td>
+        <td align=left>TWEET::2022-08-18_192012:@fukazawas</td>
     </tr>
     <tr>
         <th align=left>URL</th>
-        <td align=left>https://twitter.com/fukazawas/status/444476078535352320</td>
+        <td align=left>https://twitter.com/fukazawas/status/1560209943361294336</td>
     </tr>
     <tr>
         <th align=left>アカウント</th>
@@ -206,13 +20,15 @@
     </tr>
     <tr>
         <th align=left>ツイートの記録日時</th>
-        <td align=left>created_at 2022-08-18_1310</td>
+        <td align=left>created_at 2022-08-18_1926</td>
     </tr>
 </tbody>
 </table>
-<blockquote class="twitter-tweet" data-width="450"  data-lang="ja"><p lang="ja" dir="ltr"><a href="https://twitter.com/teriyakidesuyo?ref_src=twsrc%5Etfw">@teriyakidesuyo</a> 高度の守秘義務がありますので、一切お答えできません。<br>でも、入ればわかりますよ！！</p>&mdash; 深澤諭史 (@fukazawas) <a href="https://twitter.com/fukazawas/status/444476078535352320?ref_src=twsrc%5Etfw">March 14, 2014</a></blockquote>
+<blockquote class="twitter-tweet" data-width="450"  data-lang="ja"><p lang="ja" dir="ltr">２年越し否認事件<br>公判回数８回、打ち合わせ期日１回<br>保釈あり<br>謄写費用２万円越え<br>被告人入院等での期日変更診断書提出等対応<br><br>これで２０万円切るんですよ（白目）</p>&mdash; しばたろう (@shiba_lawyer226) <a href="https://twitter.com/shiba_lawyer226/status/1560167056414474240?ref_src=twsrc%5Etfw">August 18, 2022</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <div style="page-break-before:always"></div>
 
+> - TW kk_hirono（刑事告発・非常上告＿金沢地方検察庁御中） 日時：2022-07-02 06:26 URL： [https://twitter.com/kk_hirono/status/1542983121112408064](https://twitter.com/kk_hirono/status/1542983121112408064)  
+> SS: 2022-07-01_163920_サイ太　@uwaaaa　＞弁護団と支援者たちは、すでに製造中止となっていた王冠を自費で再生し、当時製造されたニッカリンＴがとある倉庫.jpg [https://t.co/gcOhOlnEO5](https://t.co/gcOhOlnEO5) 

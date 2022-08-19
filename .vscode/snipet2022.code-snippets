@@ -1,0 +1,45 @@
+{
+	// Place your KK2022 ワークスペース snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and 
+	// description. Add comma separated ids of the languages where the snippet is applicable in the scope field. If scope 
+	// is left empty or omitted, the snippet gets applied to all languages. The prefix is what is 
+	// used to trigger the snippet and the body will be expanded and inserted. Possible variables are: 
+	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. 
+	// Placeholders with the same ids are connected.
+	// Example:
+	// "Print to console": {
+	// 	"scope": "javascript,typescript",
+	// 	"prefix": "log",
+	// 	"body": [
+	// 		"console.log('$1');",
+	// 		"$2"
+	// 	],
+	// 	"description": "Log output to console"
+	// }
+	"sc": {
+		"prefix": "sc",
+		"body": [
+				"### スクリーンショットとBloggerの記録（${CURRENT_YEAR}年${1:08}月${2}日${3}時から${CURRENT_YEAR}年${4:08}月${5}日${6}時まで：${7}ファイル・${9}件の投稿記事）\n",
+				"<div class=\"categories\">",
+				":CATEGORIES: @kanazawabengosi #金沢弁護士会 @JFBAsns 日本弁護士連合会（日弁連） #法務省 @MOJ_HOUMU #スクリーンショットの記録",
+				"</div>\n\n",
+		]
+		},
+		"newPage": {
+			"prefix": "newPage",
+			"body": [
+				"<div style=\"page-break-before:always\"></div>",
+				"",
+				"",
+			],
+			"description": ""
+		},
+		"datetime":{
+			"prefix": "datetime",
+			"body": [
+				"<div class=\"datetime\">",
+				"$0",
+				"</div>",
+				"",
+			]
+		}
+}
