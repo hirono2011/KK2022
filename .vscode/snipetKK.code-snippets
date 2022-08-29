@@ -29,6 +29,15 @@
 						"",
 						"",
 				],
-				"description": ""
-		}
+				"description": "",
+		},
+		"categories": {
+			"prefix": "categories",
+			"body": [
+					"<div class=\"categories\">",
+					":CATEGORIES: @kanazawabengosi #金沢弁護士会 @JFBAsns 日本弁護士連合会（日弁連） #法務省 @MOJ_HOUMU${1}",
+					"</div>",
+			],
+			"description": "",
+
 }
