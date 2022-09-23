@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cmd="emacs +${1} /home/a66/git/KK2022/2022-08-15_告発状.md"
+`${cmd}`
+
