@@ -18,7 +18,7 @@
 	"sc": {
 		"prefix": "sc",
 		"body": [
-				"### スクリーンショットとBloggerの記録（${CURRENT_YEAR}年${1:10}月${2}日${3}時から${CURRENT_YEAR}年${4:10}月${5}日${6}時まで：${7}ファイル・${9}件の投稿記事）\n",
+				"### スクリーンショットとBloggerの記録（${CURRENT_YEAR}年${1:11}月${2}日${3}時から${CURRENT_YEAR}年${4:11}月${5}日${6}時まで：${7}ファイル・${9}件の投稿記事）\n",
 				"<div class=\"categories\">",
 				":CATEGORIES: @kanazawabengosi #金沢弁護士会 @JFBAsns 日本弁護士連合会（日弁連） #法務省 @MOJ_HOUMU #スクリーンショットの記録",
 				"</div>\n\n",
@@ -37,6 +37,15 @@
 			"prefix": "datetime",
 			"body": [
 				"<div class=\"datetime\">",
+				"$0",
+				"</div>",
+				"",
+			]
+		},
+		"d9":{
+			"prefix": "d9",
+			"body": [
+				"<div class=\"d9\" style=\"font-size:9pt; background-color: #FFFAFA\">",
 				"$0",
 				"</div>",
 				"",
